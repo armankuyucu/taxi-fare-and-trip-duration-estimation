@@ -1,6 +1,6 @@
 # Taxi Fare and Trip Duration Estimation
 This project uses Apache Spark to process data and Linear Regression, Random Forest models to estimate the fare and duration of taxi trips.
-You can examine the data dictionary of the dataset ![here](https://github.com/armankuyucu/taxi-fare-and-trip-duration-estimation/blob/main/data_dictionary_trip_records.pdf).
+You can examine the data dictionary of the dataset [here](https://github.com/armankuyucu/taxi-fare-and-trip-duration-estimation/blob/main/data_dictionary_trip_records.pdf).
 
 ### DataFrame Schema
 The table below illustrates the schema of the DataFrame used in this project:
